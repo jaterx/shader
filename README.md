@@ -1,2 +1,2 @@
 # shader
-HLSL / GLSL Shaders for Video Games
+Universal HLSL / GLSL Shaders for Video Games
