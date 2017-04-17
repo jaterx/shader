@@ -1,6 +1,6 @@
 ﻿//this shader will enable basic physically based rendering techinque used in modern 3D video games
 //composed with Fresnel Reflectance, GGX Normal Distribution and Cook-Torrance Geometry Shadow
-//fog is disbaled, can be enabled by restore the original code at own interests
+//fog is disbaled, can be enabled by restoring the original code at own interests
 //tested with Unity 5.5
 //an empty material file is least needed
 //phong shading is for testing and comparison purpose only
