@@ -4,6 +4,8 @@
 //tested with OGRE3D 1.9
 //GLSL Code
 
+//Written by Jater (Ruohao) Xu, 2016
+
 #version 400
 
 in vec3 vertex;
