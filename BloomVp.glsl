@@ -1,4 +1,4 @@
-//this is a rtexev shader, combined fragment shader is needed
+//this is a vertex shader, combined fragment shader is needed
 //an empty material file is least needed
 //geometry shader is not needed
 //tested with OGRE3D 1.9
