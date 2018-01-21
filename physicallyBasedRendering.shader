@@ -4,7 +4,7 @@
 //tested with Unity 5.5
 //an empty material file is least needed
 //phong shading is for testing and comparison purpose only
-//HLSL Code
+//Unity ShaderLab Code
 
 //Written by Jater (Ruohao) Xu, 2017
 
